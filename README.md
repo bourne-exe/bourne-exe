@@ -1,7 +1,7 @@
 # Hi, I'm Bourne 👋
 
 **Computer Science student based in Sweden 🇸🇪**
-Specializing in software development and mobile platforms, with a strong interest in game development and animation design.
+ - Specializing in software development and mobile platforms, with a strong interest in game development and animation design.
 
 ## 🔭 What I'm working on
 - Building software and mobile projects as part of my studies
