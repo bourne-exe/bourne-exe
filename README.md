@@ -1,5 +1,3 @@
-# Bourne
-
 # Hi, I'm Bourne 👋
 
 **Computer Science student based in Sweden 🇸🇪**
